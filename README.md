@@ -89,5 +89,5 @@ Manages **API communication** and JSON parsing:
 
 ## 📚 References
 Eck, D. J. (2022). *Introduction to Programming Using Java, Version 9*. Hobart and William Smith Colleges. https://math.hws.edu/javanotes/
-JSON-java. (2021). *JSON in Java*. GitHub. https://github.com/stleary/JSON-java
-OpenWeather. (n.d.). *Weather API – OpenWeatherMap*. Retrieved June 4, 2025, from https://openweathermap.org/api
+JSON-java. (2021). *JSON in Java*. GitHub. https://github.com/stleary/JSON-javaOpenWeather. (n.d.). *Weather API – 
+OpenWeatherMap*. Retrieved June 4, 2025, from https://openweathermap.org/api
